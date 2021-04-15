@@ -48,7 +48,7 @@ const questions = [
     {
         type: 'input',
         name: 'useRepo',
-        name: 'What does the user need to know about using the repo?',
+        message: 'What does the user need to know about using the repo?',
         default: ['use git clone'],
     },
     {
