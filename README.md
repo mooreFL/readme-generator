@@ -1,14 +1,14 @@
-# Jaunt
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# 
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
   ## Description 
-Api's suck.
+
   ## Table of Contents 
   * [Installation](#installation) 
   * [Usage](#Usage)
   * [License](#License)
   * [Contributing](#Contributing)
   * [Testing](#Testing)
-  * [Questions](#Questions)
   * [Contact](#Contact)
   
   # Installation
@@ -17,25 +17,19 @@ Api's suck.
 
   # Usage
   use git clone
-
+  
   # License
-  MIT
+    This project is created under MIT license
 
   # Contributing
   Create a pull request
 
-  # Test
+  # Testing
   npm test
 
   # Contact
   If you have questions or concerns, please contact me at the following: 
 
-  GitHub: 
+  GitHub: mooreFL 
 
-  Moorepr 
-
-  Email:
-  gmail.com  
- 
-
-
+  Email: moorepr 

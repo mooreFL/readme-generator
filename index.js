@@ -10,12 +10,24 @@ const questions = [
     {
         type: 'input',
         name: 'userName',
-        message: 'What is your GitHub username?'
+        message: 'What is your GitHub username?',
+        validate: data => {
+            if(data !== ""){
+                return true
+            } 
+            return "Please enter a valid user name."
+        }
     },
     {
         type: 'input',
         name: 'emailName',
         message: 'What is your email address?',
+        validate: data => {
+            if(data.match(/\S+@\S+\.\S+/)) {
+                return true
+            }
+            return "Please enter a valid email address."
+        }
     },
     {
         type: 'input',
