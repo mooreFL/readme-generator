@@ -1,8 +1,8 @@
-# 
+# readme generator
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description 
-
+A readme generator using node and the inquirer package.
   ## Table of Contents 
   * [Installation](#installation) 
   * [Usage](#Usage)
@@ -19,7 +19,7 @@
   use git clone
   
   # License
-    This project is created under MIT license
+    This project is created under the MIT license
 
   # Contributing
   Create a pull request
@@ -32,4 +32,4 @@
 
   GitHub: mooreFL 
 
-  Email: moorepr 
+  Email: moorepr09@gmail.com 

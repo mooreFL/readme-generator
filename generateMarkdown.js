@@ -20,7 +20,7 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   if (license !== "NONE") {
    return `# License
-    This project is created under ${license} license`
+    This project is created under the ${license} license`
   }
   return ""
 }
