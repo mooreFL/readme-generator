@@ -33,3 +33,7 @@ A readme generator using node and the inquirer package.
   GitHub: mooreFL 
 
   Email: moorepr09@gmail.com 
+
+  # Walkthrough Video
+  
+  [Video](https://drive.google.com/file/d/1oTez1GcpKMLAc66lFBYqAtxxK9UhWyoR/view)
